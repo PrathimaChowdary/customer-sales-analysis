@@ -1,0 +1,11 @@
+CustomerID,Name,Region,Product,Quantity,UnitPrice,PurchaseDate
+1001,John Doe,North,Smartphone,2,500,2024-01-15
+1002,Jane Smith,West,Laptop,1,1200,2024-01-18
+1003,Amit Rao,South,Headphones,3,150,2024-02-02
+1004,Maria Lopez,East,Tablet,1,300,2024-02-10
+1005,David Kim,North,Smartwatch,2,250,2024-03-01
+1006,Linda Lee,West,Laptop,1,1100,2024-03-05
+1007,Raj Patel,South,Smartphone,1,550,2024-03-15
+1008,Sara Khan,East,Tablet,2,280,2024-03-18
+1009,Mark Wu,North,Laptop,1,1300,2024-04-01
+1010,Olivia Chen,South,Headphones,2,140,2024-04-05
